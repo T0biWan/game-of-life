@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+
+
+.bg-canvas {
+    background-color: #303030;
+}
+
+.bg-app {
+    background-color: #202020;
+}
+
+@tailwind utilities;
